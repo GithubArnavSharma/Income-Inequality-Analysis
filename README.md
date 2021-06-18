@@ -47,7 +47,7 @@ Another way to measure the economic health of a country is rather the economic f
 
 Replacing the gini index with the economic freedom index and exploring the correlation between democracy and economic freedom shows a relatively strong postitive correlation between the democracy in a country and the country's economic freedom. 
 
-When mapping 2016 on a regression plot, this correlation can be clearly shown
+When mapping 2016 on a regression plot, this correlation can be clearly shown.
 
 ![democracyfreedom](https://user-images.githubusercontent.com/77365987/122509594-e81bcc00-cfb8-11eb-9033-132168cb203b.png)
 
@@ -58,3 +58,11 @@ When looking at the countries with the least economic freedom, most have low dem
 When looking at the countries with the most economic freedom, they all have higher than average qualities of democracy.
 
 ![mostfreedomdemocracy](https://user-images.githubusercontent.com/77365987/122509783-38932980-cfb9-11eb-87a0-1dc646a8f17d.png)
+
+It is clear there is a correlation between democracy and economic freedom. The population correlation between the two populations can be calculated as follows:
+
+![correlation65](https://user-images.githubusercontent.com/77365987/122510370-5319d280-cfba-11eb-9210-4bf21fbb9d7c.png)
+
+A 65.07% population correlation represents a high correlation, and shows that the relationship between democracy and economic freedom is strong. This is logical, as leaders are more likely to increase the ability of their population to make economic decisions if their leadership is more dependent on the population through democracy. 
+
+All in all, a country can increase its economic freedom by giving the population more democratic power to elect politicians who are incentivized to increase their economic freedom. 
