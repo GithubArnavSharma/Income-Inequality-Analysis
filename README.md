@@ -37,7 +37,7 @@ The results indicate that there are other factors that change the income inequal
 
 A third research question to explore is whether there is a correlation between the quality of the democracy of a country and its income inequality. A way to measure the quality of a democracy is through the EIU Democracy Index, which represents the quality of a nation's democracy as a number between 0 and 100. When looking at data from 2016, it can be determined that there is no correlation between democracy and income inequality.
 
-When mapping the 2016 data onto a regression plot, there is shown a weak negative correlation between the gini index and a nation's democracy. This still remains not to be enough to hold any significant meaning. 
+When mapping the 2016 data onto a regression plot, there is shown a weak negative correlation between the gini index and a nation's democracy. This still remains not to be enough to hold any significant meaning. A Linear Regression algorithm trained to predict a gini index given the democracy level would only get an r2 score of ~0.03%. 
 
 ![democracygini](https://user-images.githubusercontent.com/77365987/122498489-13e08700-cfa4-11eb-9f28-e0c5a26e02fd.png)
 
