@@ -5,7 +5,7 @@ The gini index is a useful tool to determine the income inequality of a country.
 
 Around the world, the average gini index has fallen since 1960. However, in countries such as USA, the gini index has been in a steady increase.
 
-![incomeinequality](https://user-images.githubusercontent.com/77365987/122594002-4ed1d180-d01b-11eb-8bb1-2d2792d245b0.png)
+![incomeinequality](https://user-images.githubusercontent.com/77365987/122594107-7032bd80-d01b-11eb-96ca-0eba5f32477a.png)
 
 One research question to be asked to address income inequality is whether an increase in country investment(capital formation) would lead to less income inequality. However, when looking at data from 2017, it can be determined that simply increasing investment does not lead to a decrease in income inequality. 
 
