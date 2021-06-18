@@ -1,3 +1,5 @@
+#------------------Map the change on income inequality since 1960------------------#
+
 #Import neccessary modules
 import numpy as np
 import pandas as pd
