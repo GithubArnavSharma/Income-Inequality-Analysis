@@ -65,4 +65,4 @@ It is clear there is a correlation between democracy and economic freedom. The p
 
 A 65.07% population correlation represents a high correlation, and shows that the relationship between democracy and economic freedom is strong. This is logical, as leaders are more likely to increase the ability of their population to make economic decisions if their leadership is more dependent on the population through democracy. 
 
-All in all, a country can increase its economic freedom by giving the population more democratic power to elect politicians who are incentivized to increase their economic freedom. 
+All in all, the results of this study indicate a country can increase its economic freedom by giving the population more democratic power to elect politicians who are incentivized to increase their economic freedom. 
