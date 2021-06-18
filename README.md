@@ -41,3 +41,20 @@ When mapping the 2016 data onto a regression plot, there is shown a weak negativ
 
 ![democracygini](https://user-images.githubusercontent.com/77365987/122498489-13e08700-cfa4-11eb-9f28-e0c5a26e02fd.png)
 
+All of these research questions showed that there is little correlation between a single variable and income inequality within a country. However, a question can be asked on whether or not the gini index is the best metric to the economic health of a country. Although higher income inequality is associated with the worsening of the economy of a country, this does not neccessarily mean that lower income inequality would lead to an increase in both the economy and the quality of living. As an example, Ukraine has the lowest income inequality in the world, yet has a poverty rate of over 50% as of 2021. 
+
+Another way to measure the economic health of a country is rather the economic freedom of that country. Economic Freedom is an index that represents the ability of a population to make economic actions and control their own labor and property. 
+
+Replacing the gini index with the economic freedom index and exploring the correlation between democracy and economic freedom shows a relatively strong postitive correlation between the democracy in a country and the country's economic freedom. 
+
+When mapping 2016 on a regression plot, this correlation can be clearly shown
+
+![democracyfreedom](https://user-images.githubusercontent.com/77365987/122509594-e81bcc00-cfb8-11eb-9033-132168cb203b.png)
+
+When looking at the countries with the least economic freedom, most have low democratic quality.
+
+![leastfreedomdemocracy](https://user-images.githubusercontent.com/77365987/122509760-2a450d80-cfb9-11eb-9b2c-3fcd3215c36d.png)
+
+When looking at the countries with the most economic freedom, they all have higher than average qualities of democracy.
+
+![mostfreedomdemocracy](https://user-images.githubusercontent.com/77365987/122509783-38932980-cfb9-11eb-87a0-1dc646a8f17d.png)
