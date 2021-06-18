@@ -1,1 +1,2 @@
 # Income-Inequality-Analysis
+One of the biggest problems facing countries all around the world is income inequality. Income Inequality represents the inequality in the distribution of income throughout all residents in a country. High income inequality is generally linked to a worse country overall, and in general lower income inequality is advocated for. This statistical study analyzed how various factors could affect the economic health of a nation. 
